@@ -1,0 +1,8 @@
+flask
+webrtcvad
+sounddevice
+numpy
+scipy
+noisereduce
+soundfile
+gunicorn
